@@ -93,6 +93,6 @@ Proje yerelde http://localhost:5173 adresinde çalışmaya başlayacaktır.
 
 ## 🔗 Proje Bağlantıları (Deliverables)
 
-- *Canlı Demo URL*: (Hazır olduğunda buraya eklenecektir)  
+- *Canlı Demo URL*: https://ihh-raporlama-sistemi.vercel.app/
 - *Yedek Demo Videosu*: (İnternet kesintisi riskine karşı hazırlanan ekran kaydı)  
 - *Teslim Edilen Kaynak Kod (Drive Linki)*: (Mentörle paylaşılan ortak drive klasörü)
