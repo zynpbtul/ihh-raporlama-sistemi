@@ -1,4 +1,4 @@
-# 📄 RE-PORT: Genç İHH Üniversite Teşkilat Raporlama ve Analiz Paneli
+# 📄 RE-PORT: Genç İHH Üniversite Teşkilat Raporlama ve Analiz Platformu
 
 Genç İHH’nın farklı illerindeki üniversitelerden gelen haftalık faaliyet ve katılım verilerini tek bir merkezde toplayan, veri kayıplarını önleyen, dinamik, ilişkisel ve hiyerarşik (drill-down) analiz imkânı sunan web tabanlı raporlama platformudur.
 
