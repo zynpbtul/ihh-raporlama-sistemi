@@ -1,0 +1,9 @@
+import { createClient } from '@supabase/supabase-js';
+
+// Supabase panelinden kopyaladığınız URL
+const supabaseUrl = 'https://xmmrmkswiebhcowdznsl.supabase.co';
+
+// Supabase panelinden kopyaladığınız 'anon' public anahtarınız
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhtbXJta3N3aWViaGNvd2R6bnNsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQyODQ5MzMsImV4cCI6MjA5OTg2MDkzM30.LAsDz0J4kcOwtHK0fYGyNB9QiQauAPxG0Aqx9h7Zqws';
+
+export const supabase = createClient(supabaseUrl, supabaseAnonKey);
